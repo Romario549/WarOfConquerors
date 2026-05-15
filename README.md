@@ -52,7 +52,7 @@ Assets/_Game/
 
 ## 📄 Документация
 
-- [`Docs/WOC_GDD.md`](Docs/WOC_GDD.md) — Игровой дизайн-документ (английский)
+- [`WOC_GDD.md`](WOC_GDD.md) — Игровой дизайн-документ (английский)
 - [`Docs/GDD_RU.md`](Docs/GDD_RU.md) — Игровой дизайн-документ (русский)
 - [`Docs/Roadmap_EN.md`](Docs/Roadmap_EN.md) — Полная дорожная карта разработки (английский)
 - [`Docs/Roadmap_RU.md`](Docs/Roadmap_RU.md) — Полная дорожная карта разработки (русский)
